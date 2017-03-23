@@ -1,1 +1,1 @@
-#Repository for hardentoo.org website
+# Repository for hardentoo.org website
